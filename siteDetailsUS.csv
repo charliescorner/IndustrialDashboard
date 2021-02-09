@@ -1,0 +1,61 @@
+well_id,us_city,latitude,longitude,field_id,rock_formation,rock_classification,medium,avg_daily_output_class,avg_daily_output,last_maintenance
+AK_NS001a,"Houston, TX",29.749907,-95.358421,NS Borealis,Porous,Non-Capped,medium,medium,2,2017-09-03
+AK_NS001b,"Houston, TX",29.749916,-95.3485444564321,NS Borealis,Non-porous,Capped,high,high,3,2017-09-04
+AK_NS001c,"Houston, TX",29.74992032,-95.3386679128642,NS Borealis,Non-porous,Brittle,medium,low,1,2017-10-02
+AK_NS002a,"Houston, TX",29.75057372,-95.3287913692963,NS Borealis,Porous,Capped,high,medium,2,2017-09-19
+AK_NS002b,"Houston, TX",29.74903135466,-94.370761,NS Borealis,Non-porous,Non-Capped,medium,high,3,2017-10-19
+AK_NS002c,"Houston, TX",29.7467951243547,-94.3608844564321,NS Borealis,Non-porous,Brittle,high,low,1,2017-09-20
+AK_NS003a,"Houston, TX",28.7500082324355,-95.3041842135,NS Borealis,Porous,Brittle,medium,low,1,2017-09-20
+AK_NS003b,"Houston, TX",28.8382545991244,-95.2943076699321,NS Borealis,Non-porous,Capped,high,low,1,2017-09-08
+AK_NS003c,"Houston, TX",29.07048741266,-96.3451774534,NS Borealis,Non-porous,Capped,low,medium,2,2017-10-16
+AK_NS004a,"Houston, TX",30.649907,-96.2797901351971,NS Borealis,Porous,Capped,medium,medium,2,2017-10-23
+AK_NS004b,"Houston, TX",29.84533043652,-96.2699135916292,NS Borealis,Porous,Brittle,medium,low,1,2017-10-27
+AK_NS004c,"Houston, TX",29.7744924356425,-95.4820978765,NS Borealis,Non-porous,Brittle,low,medium,2,2017-10-12
+AK_NS005a,"Houston, TX",29.7843689786425,-95.789812854,NS Borealis,Non-porous,Capped,high,low,1,2017-10-19
+AK_NS005b,"Houston, TX",29.7942455216425,-94.814762092865,NS Borealis,Non-porous,Capped,high,medium,2,2017-09-10
+AK_NS005c,"Williston, ND",48.146969,-103.617973,NS Borealis,Porous,Non-Capped,low,medium,2,2017-09-03
+AK_NS006a,"Williston, ND",48.1568455435679,-103.617964,NS Borealis,Porous,Brittle,high,medium,2,2017-09-30
+AK_NS006b,"Williston, ND",48.1667220871358,-103.61795968,NS Borealis,Non-porous,Capped,high,low,1,2017-09-09
+AK_NS006c,"Williston, ND",48.1765986307037,-103.61730628,NS Borealis,Porous,Non-Capped,medium,low,1,2017-09-23
+AK_PB001a,"Williston, ND",49.134629,-103.61884864534,NS Borealis,Non-porous,Capped,medium,high,3,2017-11-02
+AK_PB001b,"Williston, ND",49.1445055435679,-103.621084875645,NS Borealis,Non-porous,Non-Capped,high,medium,2,2017-10-24
+AK_PB001c,"Williston, ND",48.2012057865,-104.617871767565,NS Borealis,Non-porous,Brittle,medium,low,1,2017-09-12
+AK_PB002a,"Williston, ND",48.2110823300679,-104.529625400876,NS Borealis,Non-porous,Capped,low,low,1,2017-09-05
+AK_PB002b,"Williston, ND",47.1602125466,-104.29739258734,NS Borealis,Non-porous,Capped,high,high,3,2017-09-28
+AK_PB002c,"Williston, ND",47.2255998648029,-102.717973,NS Borealis,Porous,Capped,low,high,3,2017-10-13
+AK_PB003a,"Williston, ND",47.2354764083708,-103.52254956348,NS Borealis,Porous,Capped,low,low,1,2017-10-18
+AK_PB003b,"Williston, ND",48.0232921235,-103.593387564357,NS Borealis,Non-porous,Brittle,low,high,3,2017-10-30
+AK_PB003c,"Williston, ND",47.715577146,-103.583511021357,NS Borealis,Non-porous,Capped,low,medium,2,2017-09-12
+AK_PB004a,"Williston, ND",48.690627907135,-103.573634478357,NS Borealis,Porous,Capped,low,low,1,2017-10-13
+AK_PB004b,"Williston, ND",48.21531629143,-102.53488956348,NS Borealis,Non-porous,Capped,high,high,3,2017-11-01
+AK_PB004c,"Williston, ND",47.7103905707,-102.605727564357,NS Borealis,Porous,Non-Capped,medium,medium,2,2017-09-07
+AK_NS007a,"San Joaquin, CA",36.6066,-120.1890,NS Borealis,Non-porous,Non-Capped,medium,medium,2,2017-09-03
+AK_NS007b,"San Joaquin, CA",37.594254431,-120.1791,NS Borealis,Non-porous,Capped,low,low,1,2017-09-04
+AK_NS007c,"San Joaquin, CA",36.609814354234,-120.1692,NS Borealis,Porous,Non-Capped,high,high,3,2017-10-02
+AK_NS007d,"San Joaquin, CA",36.8200676,-120.1594,NS Borealis,Porous,Brittle,high,medium,2,2017-09-19
+AK_NS007e,"San Joaquin, CA",35.61914655,-119.2013,NS Borealis,Non-porous,Capped,low,medium,2,2017-10-19
+AK_NS008a,"San Joaquin, CA",36.483143546058,-119.1915,NS Borealis,Non-porous,Brittle,low,low,1,2017-09-20
+AK_NS008b,"San Joaquin, CA",36.60655432,-120.1348,NS Borealis,Porous,Brittle,medium,low,1,2017-09-20
+AK_NS008c,"San Joaquin, CA",35.7408534565323,-120.1249,NS Borealis,Non-porous,Capped,high,high,3,2017-09-08
+AK_NS008d,"San Joaquin, CA",36.371990143626,-121.1758,NS Borealis,Porous,Brittle,low,high,3,2017-10-16
+AK_NS008e,"San Joaquin, CA",37.359644574626,-121.1104,NS Borealis,Non-porous,Brittle,medium,medium,2,2017-10-23
+AK_NS008f,"San Joaquin, CA",36.6065564856435,-121.1005,NS Borealis,Non-porous,Capped,high,low,1,2017-10-27
+AK_NS008g,"San Joaquin, CA",36.7000585634,-120.3127,NS Borealis,Non-porous,Non-Capped,low,high,3,2017-10-12
+AK_NS008h,"San Joaquin, CA",35.9279413157061,-120.6204,NS Borealis,Porous,Non-Capped,high,low,1,2017-10-19
+AK_NS008i,"San Joaquin, CA",36.0717047610613,-119.6453,NS Borealis,Non-porous,Non-Capped,low,high,3,2017-09-10
+AK_PS001a,"Prudhoe Bay, AK",70.200523,-148.461380,NS Borealis,Non-porous,Non-Capped,high,medium,2,2017-09-03
+AK_PS001b,"Prudhoe Bay, AK",70.8540019,-148.461371,NS Borealis,Porous,Brittle,low,medium,2,2017-09-30
+AK_PS001c,"Prudhoe Bay, AK",71.13506978,-148.461367,NS Borealis,Porous,Capped,medium,high,3,2017-09-09
+AK_PS001d,"Prudhoe Bay, AK",70.2029584678987,-148.460713,NS Borealis,Non-porous,Capped,low,high,3,2017-09-23
+AK_PS001e,"Prudhoe Bay, AK",70.3250875634523,-148.462256,NS Borealis,Non-porous,Capped,low,medium,2,2017-11-02
+AK_PS002a,"Prudhoe Bay, AK",69.265956,-148.464492,NS Borealis,Non-porous,Brittle,medium,medium,2,2017-10-24
+AK_PS002b,"Prudhoe Bay, AK",70.1940701268091,-149.461279,NS Borealis,Porous,Capped,medium,low,1,2017-09-12
+AK_PS002c,"Prudhoe Bay, AK",69.302865166,-149.373032,NS Borealis,Porous,Brittle,medium,low,1,2017-09-05
+AK_PS002d,"Prudhoe Bay, AK",71.3127475634523,-149.140800,NS Borealis,Porous,Non-Capped,high,high,3,2017-09-28
+AK_PS002e,"Prudhoe Bay, AK",70.253616,-147.561380,NS Borealis,Porous,Non-Capped,low,low,1,2017-10-13
+AK_PS002f,"Prudhoe Bay, AK",70.3793243499523,-148.365957,NS Borealis,Non-porous,Non-Capped,high,low,1,2017-10-18
+AK_PS003a,"Prudhoe Bay, AK",69.3201927865,-148.436795,NS Borealis,Porous,Non-Capped,medium,medium,2,2017-10-30
+AK_PS003b,"Prudhoe Bay, AK",69.3383311100523,-148.426918,NS Borealis,Non-porous,Brittle,low,high,3,2017-09-12
+AK_PS003c,"Prudhoe Bay, AK",68.334710321235,-148.417041,NS Borealis,Non-porous,Capped,medium,medium,2,2017-10-13
+AK_PS003d,"Prudhoe Bay, AK",69.2628244480441,-147.378297,NS Borealis,Porous,Brittle,low,low,1,2017-11-01
+AK_PS003e,"Prudhoe Bay, AK",70.2014106869523,-147.449135,NS Borealis,Non-porous,Non-Capped,medium,high,3,2017-09-07
