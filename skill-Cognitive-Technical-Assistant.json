@@ -1,0 +1,1339 @@
+{
+  "intents": [
+    {
+      "intent": "affirmative",
+      "examples": [
+        {
+          "text": "for sure"
+        },
+        {
+          "text": "mhmm"
+        },
+        {
+          "text": "uh huh"
+        },
+        {
+          "text": "yes"
+        },
+        {
+          "text": "yes please"
+        },
+        {
+          "text": "yup"
+        }
+      ],
+      "description": ""
+    },
+    {
+      "intent": "company_initiatives_employees",
+      "examples": [
+        {
+          "text": "Company initiatives for the employee"
+        },
+        {
+          "text": "How is the company protecting me?"
+        },
+        {
+          "text": "What are the company initiatives around COVID-19?"
+        },
+        {
+          "text": "What is the company doing to help employees?"
+        },
+        {
+          "text": "What is the company doing to protect me?"
+        }
+      ],
+      "description": "Company Initiatives for the Employee"
+    },
+    {
+      "intent": "company_initiatives_global",
+      "examples": [
+        {
+          "text": "Company initiatives for the world"
+        },
+        {
+          "text": "How is the company supporting the global landscape currently?"
+        },
+        {
+          "text": "What are the company initiatives around COVID-19 for the world?"
+        },
+        {
+          "text": "what are the global company initiatives"
+        },
+        {
+          "text": "What is the company doing to help the world?"
+        },
+        {
+          "text": "What is the company doing to help those with COVID-19?"
+        },
+        {
+          "text": "What is the company doing to help with COVID-19?"
+        }
+      ],
+      "description": "Company Initiatives for the World"
+    },
+    {
+      "intent": "Covid_Case_Count",
+      "examples": [
+        {
+          "text": "Does the US have a confirmed COVID case?"
+        },
+        {
+          "text": "How many cases of COVID-19 are in the US?"
+        },
+        {
+          "text": "how many people are infected in the us?"
+        },
+        {
+          "text": "how many people are sick in the US?"
+        }
+      ],
+      "description": "Information on number of Covid 19 cases."
+    },
+    {
+      "intent": "Covid_Cleaning_Disinfecting",
+      "examples": [
+        {
+          "text": "All the stores are out of disinfecting wipes, what do I do?"
+        },
+        {
+          "text": "Are there disinfectants available that can inactivate (kill) COVID-19?"
+        },
+        {
+          "text": "Does alcohol kill the coronavirus?"
+        },
+        {
+          "text": "Do I have to use bleach to kill coronavirus?"
+        },
+        {
+          "text": "Do I need lysol wipes?"
+        },
+        {
+          "text": "How do I clean surfaces properly at work?"
+        },
+        {
+          "text": "How do I disinfect my work station?"
+        },
+        {
+          "text": "How do I properly sanitize the machinery at work?"
+        },
+        {
+          "text": "Should I spray myself or my kids with disinfectant?"
+        },
+        {
+          "text": "What cleaning methods kill the coronavirus?"
+        },
+        {
+          "text": "Whats the difference between cleaning and disinfecting?"
+        },
+        {
+          "text": "Your line manager should provide specifics around cleaning and disinfecting the equipment that you handle in your day to day activities."
+        }
+      ],
+      "description": "How to clean and disinfect."
+    },
+    {
+      "intent": "Covid_Description",
+      "examples": [
+        {
+          "text": "Has the cause of COVID-19 been identified?"
+        },
+        {
+          "text": "How dangerous is this?"
+        },
+        {
+          "text": "How is COVID-19 spread?"
+        },
+        {
+          "text": "Is the coronavirus the same as a cold?"
+        },
+        {
+          "text": "Is the coronavirus the same as MERS?"
+        },
+        {
+          "text": "Is the coronavirus the same as SARS?"
+        },
+        {
+          "text": "What is COVID-19?"
+        },
+        {
+          "text": "what is novel coronavirus?"
+        },
+        {
+          "text": "what is the coronavirus?"
+        },
+        {
+          "text": "Where did the coronavirus come from?"
+        }
+      ],
+      "description": "Overview of Covid 19."
+    },
+    {
+      "intent": "Covid_Protecting_Against_Infection",
+      "examples": [
+        {
+          "text": "Do I need to wear a face mask?"
+        },
+        {
+          "text": "How can I protect my family from the spread of coronavirus?"
+        },
+        {
+          "text": "How do I avoid covid-19?"
+        },
+        {
+          "text": "how do I ensure my family is safe?"
+        },
+        {
+          "text": "How do I prevent myself from getting sick?"
+        },
+        {
+          "text": "How do I protect myself?"
+        },
+        {
+          "text": "How often should I wash my hands?"
+        },
+        {
+          "text": "How to Prevent the Spread of the Virus"
+        },
+        {
+          "text": "Is it even possible to avoid the virus?"
+        },
+        {
+          "text": "prevent the spread of the virus"
+        },
+        {
+          "text": "What is the risk of my child becoming sick with COVID-19?"
+        },
+        {
+          "text": "what should i do to contain the spread of the virus"
+        },
+        {
+          "text": "What’s the best way to prevent coronavirus?"
+        }
+      ],
+      "description": "How to prevent infection."
+    },
+    {
+      "intent": "Covid_Symptoms",
+      "examples": [
+        {
+          "text": "am i sick"
+        },
+        {
+          "text": "Do I need to get tested?"
+        },
+        {
+          "text": "How do i know if I'm sick"
+        },
+        {
+          "text": "I have travled recently. What do I do?"
+        },
+        {
+          "text": "I think I might have the virus."
+        },
+        {
+          "text": "I think I'm infected"
+        },
+        {
+          "text": "I traveled to Italy recently. What do I do?"
+        },
+        {
+          "text": "should i get tested"
+        },
+        {
+          "text": "should I get tested if I have a cough?"
+        },
+        {
+          "text": "What are symptoms?"
+        }
+      ],
+      "description": "Symptoms related to Covid 19."
+    },
+    {
+      "intent": "Covid_Testing_Locations",
+      "examples": [
+        {
+          "text": "Can I get tested at my doctors?"
+        },
+        {
+          "text": "Can I get tested at Walgreens?"
+        },
+        {
+          "text": "Can I test myself at my house?"
+        },
+        {
+          "text": "How do I get tested?"
+        },
+        {
+          "text": "testing locations?"
+        },
+        {
+          "text": "testing spots for coronavirus?"
+        },
+        {
+          "text": "Where can I get tested?"
+        }
+      ],
+      "description": "Where to get tested for Covid 19."
+    },
+    {
+      "intent": "Covid_Testing_Results",
+      "examples": [
+        {
+          "text": "Do my test results come in the mail?"
+        },
+        {
+          "text": "How can I get my test results?"
+        },
+        {
+          "text": "Its been a week. Who can I call to get my test results?"
+        },
+        {
+          "text": "My doctor hasn't given me my test results back yet."
+        },
+        {
+          "text": "test outcomes?"
+        },
+        {
+          "text": "When can I get my results?"
+        },
+        {
+          "text": "Who will give me my COVID test results?"
+        }
+      ],
+      "description": "How to get Covid 19 test results."
+    },
+    {
+      "intent": "goodbyes",
+      "examples": [
+        {
+          "text": "bye"
+        },
+        {
+          "text": "ciao"
+        },
+        {
+          "text": "exit"
+        },
+        {
+          "text": "goodbye"
+        },
+        {
+          "text": "quit"
+        },
+        {
+          "text": "see ya"
+        },
+        {
+          "text": "thanks"
+        }
+      ]
+    },
+    {
+      "intent": "greetings",
+      "examples": [
+        {
+          "text": "good morning"
+        },
+        {
+          "text": "greetings"
+        },
+        {
+          "text": "hello"
+        },
+        {
+          "text": "hey"
+        },
+        {
+          "text": "hi"
+        },
+        {
+          "text": "what's up"
+        }
+      ]
+    },
+    {
+      "intent": "limited_manpower",
+      "examples": [
+        {
+          "text": "How many employees are here today?"
+        },
+        {
+          "text": "How many technicians do we have on site today?"
+        },
+        {
+          "text": "How many workers are present today?"
+        }
+      ],
+      "description": ""
+    },
+    {
+      "intent": "manufacturing_changes",
+      "examples": [
+        {
+          "text": "Are we going to shift and manufacture masks?"
+        },
+        {
+          "text": "Are we manufacturing masks now?"
+        },
+        {
+          "text": "Do we also manufacture masks?"
+        }
+      ],
+      "description": ""
+    },
+    {
+      "intent": "n95_masks",
+      "examples": [
+        {
+          "text": "How are we building n95 masks"
+        },
+        {
+          "text": "How do we manufacture n95 masks?"
+        },
+        {
+          "text": "How to make an n95 mask"
+        }
+      ],
+      "description": ""
+    },
+    {
+      "intent": "negative",
+      "examples": [
+        {
+          "text": "nada"
+        },
+        {
+          "text": "no"
+        },
+        {
+          "text": "nope"
+        },
+        {
+          "text": "no thanks"
+        },
+        {
+          "text": "nuh uh"
+        }
+      ],
+      "description": ""
+    },
+    {
+      "intent": "out_of_scope",
+      "examples": [
+        {
+          "text": "210"
+        },
+        {
+          "text": "cooling water tower"
+        },
+        {
+          "text": "Drawing"
+        },
+        {
+          "text": "evaporation"
+        },
+        {
+          "text": "filtration"
+        },
+        {
+          "text": "how do I maximize service life"
+        },
+        {
+          "text": "legionnaire"
+        },
+        {
+          "text": "legionnaire disease"
+        },
+        {
+          "text": "maintenance"
+        },
+        {
+          "text": "maximize service life"
+        },
+        {
+          "text": "Show me a drawing of tower TK-209"
+        },
+        {
+          "text": "SUMP TK-210"
+        },
+        {
+          "text": "TK-210"
+        }
+      ]
+    },
+    {
+      "intent": "specs",
+      "examples": [
+        {
+          "text": "chloride"
+        },
+        {
+          "text": "chloride ion concentration"
+        },
+        {
+          "text": "concentration"
+        },
+        {
+          "text": "temperature"
+        },
+        {
+          "text": "temperature difference of water leaving the tower"
+        },
+        {
+          "text": "water temperature"
+        },
+        {
+          "text": "what is the pH?"
+        }
+      ]
+    }
+  ],
+  "entities": [
+    {
+      "entity": "ion_conc_temp",
+      "values": [
+        {
+          "type": "synonyms",
+          "value": "22 degrees",
+          "synonyms": [
+            "22",
+            "22deg"
+          ]
+        },
+        {
+          "type": "synonyms",
+          "value": "27 degrees",
+          "synonyms": [
+            "27",
+            "27 deg"
+          ]
+        },
+        {
+          "type": "synonyms",
+          "value": "30 degrees",
+          "synonyms": [
+            "30",
+            "30deg"
+          ]
+        }
+      ]
+    },
+    {
+      "entity": "measurement",
+      "values": [
+        {
+          "type": "synonyms",
+          "value": "chloride",
+          "synonyms": [
+            "chloride ion concentration",
+            "concentration",
+            "ion"
+          ]
+        },
+        {
+          "type": "synonyms",
+          "value": "pH",
+          "synonyms": [
+            "acidity"
+          ]
+        },
+        {
+          "type": "synonyms",
+          "value": "temperature",
+          "synonyms": [
+            "difference",
+            "temp",
+            "water temperature"
+          ]
+        }
+      ],
+      "fuzzy_match": true
+    },
+    {
+      "entity": "surfaces",
+      "values": [
+        {
+          "type": "synonyms",
+          "value": "Electronics",
+          "synonyms": []
+        },
+        {
+          "type": "synonyms",
+          "value": "Equipment",
+          "synonyms": []
+        },
+        {
+          "type": "synonyms",
+          "value": "Hard Surfaces",
+          "synonyms": []
+        },
+        {
+          "type": "synonyms",
+          "value": "Soft Surfaces",
+          "synonyms": []
+        }
+      ],
+      "fuzzy_match": true
+    },
+    {
+      "entity": "temp_variance",
+      "values": [
+        {
+          "type": "synonyms",
+          "value": "approach",
+          "synonyms": []
+        },
+        {
+          "type": "synonyms",
+          "value": "range",
+          "synonyms": []
+        }
+      ]
+    }
+  ],
+  "metadata": {
+    "api_version": {
+      "major_version": "v2",
+      "minor_version": "2018-11-08"
+    },
+    "from-sample": true
+  },
+  "dialog_nodes": [
+    {
+      "type": "standard",
+      "title": "Check Specs",
+      "output": {},
+      "next_step": {
+        "behavior": "jump_to",
+        "selector": "condition",
+        "dialog_node": "Water Temperature"
+      },
+      "conditions": "#specs",
+      "dialog_node": "Check Specs",
+      "previous_sibling": "node_10_1585330608613"
+    },
+    {
+      "type": "standard",
+      "title": "Chloride Ion Concentration",
+      "output": {
+        "text": {
+          "values": [
+            "What temperature do you need to know the chloride ion concentration for?"
+          ],
+          "selection_policy": "sequential"
+        }
+      },
+      "parent": "Check Specs",
+      "conditions": "@measurement:chloride",
+      "dialog_node": "Chloride Ion Concentration",
+      "previous_sibling": "Water Temperature"
+    },
+    {
+      "type": "standard",
+      "title": "Goodbye",
+      "output": {
+        "text": {
+          "values": [
+            "Goodbye.  Speak to you again soon!"
+          ],
+          "selection_policy": "sequential"
+        }
+      },
+      "conditions": "#goodbyes",
+      "dialog_node": "Goodbye",
+      "previous_sibling": "Check Specs"
+    },
+    {
+      "type": "standard",
+      "title": "Greeting",
+      "output": {
+        "text": {
+          "values": [
+            "Why hello there!  Do you have a question for me?"
+          ],
+          "selection_policy": "sequential"
+        }
+      },
+      "conditions": "#greetings",
+      "dialog_node": "Greeting",
+      "previous_sibling": "Start And Initialize Context"
+    },
+    {
+      "type": "standard",
+      "title": "Ion Temps",
+      "output": {},
+      "parent": "Chloride Ion Concentration",
+      "conditions": "@ion_conc_temp",
+      "dialog_node": "Ion Temps"
+    },
+    {
+      "type": "response_condition",
+      "output": {
+        "text": {
+          "values": [
+            "At @ion_conc_temp the concentration should be 40 ppm."
+          ],
+          "selection_policy": "sequential"
+        }
+      },
+      "parent": "Ion Temps",
+      "conditions": " @ion_conc_temp:(30 degrees)",
+      "dialog_node": "node_10_1497900781304",
+      "previous_sibling": "node_9_1497900758679"
+    },
+    {
+      "type": "folder",
+      "title": "COVID19_Industrial",
+      "dialog_node": "node_10_1585330608613",
+      "previous_sibling": "node_8_1585579119843"
+    },
+    {
+      "type": "standard",
+      "title": "Protect Against Illness - Voice",
+      "output": {
+        "text": {
+          "values": [],
+          "selection_policy": "sequential"
+        },
+        "vgwActionSequence": [
+          {
+            "command": "vgwActSendSMS",
+            "parameters": {
+              "message": "https://www.cdc.gov/coronavirus/2019-ncov/prepare/prevention.html"
+            }
+          },
+          {
+            "command": "vgwActPlayText"
+          }
+        ]
+      },
+      "parent": "node_8_1585579119843",
+      "context": {
+        "areaCode": "<? $vgwSIPFromURI.extract('(\\+1)([\\d]{3})',2) ?>"
+      },
+      "next_step": {
+        "behavior": "jump_to",
+        "selector": "condition",
+        "dialog_node": "node_4_1585620820563"
+      },
+      "conditions": "#Covid_Protecting_Against_Infection && $vgwSIPToURI",
+      "dialog_node": "node_10_1585620667877",
+      "previous_sibling": "node_5_1585579739136"
+    },
+    {
+      "type": "standard",
+      "title": "Description",
+      "output": {
+        "generic": [
+          {
+            "values": [
+              {
+                "text": "For a detailed description of COVID-19 and best practices, visit this website: \nhttps://www.cdc.gov/coronavirus/2019-ncov/index.html"
+              },
+              {
+                "text": "For a video overview by the World Health Organization visit this link:\nhttps://youtu.be/mOV1aBVYKGA"
+              }
+            ],
+            "response_type": "text",
+            "selection_policy": "multiline"
+          }
+        ]
+      },
+      "parent": "node_8_1585579119843",
+      "conditions": "#Covid_Description",
+      "dialog_node": "node_1_1585579135820"
+    },
+    {
+      "type": "standard",
+      "title": "Protect Against Illness",
+      "output": {
+        "generic": [
+          {
+            "values": [
+              {
+                "text": "Here are some steps that the CDC advises to protect yourself from COVID-19:\n-wash your hands often, and wear gloves at work\n-avoid touching your eyes, nose, and mouth\n-avoid close contact with people\n-cover coughs and sneezes\n-wear a face mask\n-clean and disinfect frequently touched surfaces"
+              }
+            ],
+            "response_type": "text",
+            "selection_policy": "sequential"
+          }
+        ]
+      },
+      "parent": "node_8_1585579119843",
+      "next_step": {
+        "behavior": "jump_to",
+        "selector": "body",
+        "dialog_node": "node_3_1585331217497"
+      },
+      "conditions": "#Covid_Protecting_Against_Infection",
+      "dialog_node": "node_1_1585579909510",
+      "previous_sibling": "node_10_1585620667877"
+    },
+    {
+      "type": "standard",
+      "title": "Cleaning and Disinfecting",
+      "output": {
+        "generic": [
+          {
+            "title": "",
+            "options": [
+              {
+                "label": "Hard Surfaces",
+                "value": {
+                  "input": {
+                    "text": "Hard Surfaces"
+                  }
+                }
+              },
+              {
+                "label": "Soft Surfaces",
+                "value": {
+                  "input": {
+                    "text": "Soft Surfaces"
+                  }
+                }
+              },
+              {
+                "label": "Electronics",
+                "value": {
+                  "input": {
+                    "text": "Electronics"
+                  }
+                }
+              },
+              {
+                "label": "Equipment",
+                "value": {
+                  "input": {
+                    "text": "Equipment"
+                  }
+                }
+              }
+            ],
+            "response_type": "option"
+          }
+        ]
+      },
+      "parent": "node_8_1585579119843",
+      "conditions": "#Covid_Cleaning_Disinfecting",
+      "dialog_node": "node_1_1585661380576",
+      "previous_sibling": "node_1_1585579909510"
+    },
+    {
+      "type": "standard",
+      "title": "Electronics",
+      "output": {
+        "generic": [
+          {
+            "values": [
+              {
+                "text": "For electronics such as cell phones, tablets, touch screens, remote controls, and keyboards, remove visible contamination if present. Follow the manufacturer’s instructions for all cleaning and disinfection products."
+              }
+            ],
+            "response_type": "text",
+            "selection_policy": "sequential"
+          }
+        ]
+      },
+      "parent": "node_1_1585661380576",
+      "conditions": "@surfaces:Electronics",
+      "dialog_node": "node_1_1585661742111",
+      "previous_sibling": "node_8_1585661709495"
+    },
+    {
+      "type": "response_condition",
+      "output": {
+        "text": {
+          "values": [
+            "The water temperature should be 4-6 K difference from the wet bulb at entry."
+          ],
+          "selection_policy": "sequential"
+        }
+      },
+      "parent": "Water Temperature Variance",
+      "conditions": "@temp_variance:approach",
+      "dialog_node": "node_2_1497900357835"
+    },
+    {
+      "type": "standard",
+      "title": "Company Initiatives: Global",
+      "output": {
+        "generic": [
+          {
+            "values": [
+              {
+                "text": "The company is doing the best we can in these challenging times to support those in need.  We are shifting our regular production to produce masks, and are donating to the World Health Organization's COVID-19 response fund found here:\nhttps://www.who.int/emergencies/diseases/novel-coronavirus-2019/donate"
+              }
+            ],
+            "response_type": "text",
+            "selection_policy": "sequential"
+          }
+        ]
+      },
+      "parent": "node_10_1585330608613",
+      "conditions": "#company_initiatives_global",
+      "user_label": "Company Initiatives for the World",
+      "dialog_node": "node_2_1585595434886",
+      "previous_sibling": "node_5_1585593789082"
+    },
+    {
+      "type": "response_condition",
+      "output": {
+        "text": {
+          "values": [
+            "The water temperature should be 8-10K difference from temperature of water at entry."
+          ],
+          "selection_policy": "sequential"
+        }
+      },
+      "parent": "Water Temperature Variance",
+      "conditions": " @temp_variance:range",
+      "dialog_node": "node_3_1497900389472",
+      "previous_sibling": "node_2_1497900357835"
+    },
+    {
+      "type": "standard",
+      "title": "COVID-19 Cases: Company",
+      "output": {
+        "generic": [
+          {
+            "values": [
+              {
+                "text": "Due to COVID-19, we are working at limited capacity.  There are only 25 technicians on site today, instead of the regular 40."
+              },
+              {
+                "text": "Would you like to know how many identified cases of COVID-19 there are within our company?"
+              }
+            ],
+            "response_type": "text",
+            "selection_policy": "multiline"
+          }
+        ]
+      },
+      "parent": "node_10_1585330608613",
+      "conditions": "#limited_manpower",
+      "dialog_node": "node_3_1585331217497",
+      "previous_sibling": "node_8_1585330769650"
+    },
+    {
+      "type": "standard",
+      "output": {},
+      "parent": "node_7_1499460819396",
+      "conditions": "true",
+      "dialog_node": "node_4_1499460296147"
+    },
+    {
+      "type": "standard",
+      "output": {
+        "generic": [
+          {
+            "values": [
+              {
+                "text": "The state of New York has published a list of guidelines for avoiding the corona virus. We are sending the details to you via text."
+              }
+            ],
+            "response_type": "text",
+            "selection_policy": "sequential"
+          }
+        ]
+      },
+      "parent": "node_10_1585620667877",
+      "conditions": "$areaCode  == \"646\"",
+      "dialog_node": "node_4_1585620820563"
+    },
+    {
+      "type": "standard",
+      "title": "Equipment",
+      "output": {
+        "generic": [
+          {
+            "values": [
+              {
+                "text": "Your line manager should have provided you with specific instructions around cleaning the equipment which you handle day to day. Please remember to wear gloves and face masks at all times. "
+              }
+            ],
+            "response_type": "text",
+            "selection_policy": "sequential"
+          }
+        ]
+      },
+      "parent": "node_1_1585661380576",
+      "conditions": "@surfaces:Equipment",
+      "dialog_node": "node_4_1585661767259",
+      "previous_sibling": "node_1_1585661742111"
+    },
+    {
+      "type": "response_condition",
+      "output": {
+        "text": {
+          "values": [
+            "I am having trouble understanding you. Try asking your question in a different way."
+          ],
+          "selection_policy": "sequential"
+        }
+      },
+      "parent": "node_4_1499460296147",
+      "context": {
+        "default_counter": 0
+      },
+      "conditions": "",
+      "dialog_node": "node_5_1499460330652"
+    },
+    {
+      "type": "standard",
+      "title": "Symptoms",
+      "output": {
+        "generic": [
+          {
+            "values": [
+              {
+                "text": "According to the Center for Disease Control (CDC), these symptoms may occur 2-14 days after exposure to COVID-19:\n-fever\n-cough\n-shortness of breath"
+              },
+              {
+                "text": "For more information, visit this website:\nhttps://www.cdc.gov/coronavirus/2019-ncov/symptoms-testing/symptoms.html"
+              }
+            ],
+            "response_type": "text",
+            "selection_policy": "multiline"
+          }
+        ]
+      },
+      "parent": "node_8_1585579119843",
+      "conditions": "#Covid_Symptoms",
+      "dialog_node": "node_5_1585579739136",
+      "previous_sibling": "node_8_1585579590154"
+    },
+    {
+      "type": "standard",
+      "title": "Company Initiatives: Employees",
+      "output": {
+        "generic": [
+          {
+            "values": [
+              {
+                "text": "We understand these are difficult times, and the company is doing our best to support you.  In order to keep our workers safe, we are implementing several policies. \n1. We are checking the temperature of each employee as you enter the premise, and anyone with a high temperature is sent home.\n2. We are implementing strict social distancing measures.  No worker should be within 6 feet of another.\n3. We have set up additional receptacles with hand sanitizer, masks, and gloves.  Please make sure you are utilizing all three and washing your hands often."
+              }
+            ],
+            "response_type": "text",
+            "selection_policy": "sequential"
+          }
+        ]
+      },
+      "parent": "node_10_1585330608613",
+      "conditions": "#company_initiatives_employees",
+      "user_label": "Company Initiatives for the Employee",
+      "dialog_node": "node_5_1585593789082",
+      "previous_sibling": "node_3_1585331217497"
+    },
+    {
+      "type": "standard",
+      "output": {
+        "generic": [
+          {
+            "values": [
+              {
+                "text": "The Centers for Disease Control and Prevention has published a list of guidelines for avoiding the corona virus. We are sending the details to you via text."
+              }
+            ],
+            "response_type": "text",
+            "selection_policy": "sequential"
+          }
+        ]
+      },
+      "parent": "node_10_1585620667877",
+      "conditions": "anything_else",
+      "dialog_node": "node_5_1585621128998",
+      "previous_sibling": "node_4_1585620820563"
+    },
+    {
+      "type": "standard",
+      "output": {},
+      "context": {
+        "default_counter": "<?$default_counter+1?>"
+      },
+      "next_step": {
+        "behavior": "jump_to",
+        "selector": "condition",
+        "dialog_node": "node_4_1499460296147"
+      },
+      "conditions": "anything_else",
+      "dialog_node": "node_7_1499460819396",
+      "previous_sibling": "Goodbye"
+    },
+    {
+      "type": "standard",
+      "title": "Affirmative",
+      "output": {
+        "generic": [
+          {
+            "values": [
+              {
+                "text": "So far, there are 10 identified cases of COVID-19 at our company.  All those who tested positive are quarantined at home and receiving the appropriate medical care.  If you work in close quarters with any who have COVID-19, your management will have notified you via email to self-quarantine for the next 14 days."
+              }
+            ],
+            "response_type": "text",
+            "selection_policy": "sequential"
+          }
+        ]
+      },
+      "parent": "node_3_1585331217497",
+      "conditions": "#affirmative",
+      "dialog_node": "node_7_1585582850817"
+    },
+    {
+      "type": "standard",
+      "title": "Negative",
+      "output": {
+        "generic": [
+          {
+            "values": [
+              {
+                "text": "Okay.  Can I help with anything else?"
+              }
+            ],
+            "response_type": "text",
+            "selection_policy": "sequential"
+          }
+        ]
+      },
+      "parent": "node_3_1585331217497",
+      "conditions": "#negative",
+      "dialog_node": "node_7_1585582879274",
+      "previous_sibling": "node_7_1585582850817"
+    },
+    {
+      "type": "standard",
+      "title": "Hard (Non-porous) Surfaces",
+      "output": {
+        "generic": [
+          {
+            "values": [
+              {
+                "text": "For disinfection, most common EPA-registered household disinfectants should be effective. If surfaces are dirty, they should be cleaned using a detergent or soap and water prior to disinfection."
+              }
+            ],
+            "response_type": "text",
+            "selection_policy": "sequential"
+          }
+        ]
+      },
+      "parent": "node_1_1585661380576",
+      "conditions": "@surfaces:(Hard Surfaces)",
+      "dialog_node": "node_7_1585661477555"
+    },
+    {
+      "type": "response_condition",
+      "output": {
+        "text": {
+          "values": [
+            "At @ion_conc_temp the concentration should be 70 ppm."
+          ],
+          "selection_policy": "sequential"
+        }
+      },
+      "parent": "Ion Temps",
+      "conditions": " @ion_conc_temp:(27 degrees)",
+      "dialog_node": "node_8_1497900721329"
+    },
+    {
+      "type": "standard",
+      "title": "n95 Masks",
+      "output": {
+        "generic": [
+          {
+            "values": [
+              {
+                "text": "Your line manager should provide specific details on the shifting of your day to day production activities.  Below is a general documentation around the n95 respirators. "
+              }
+            ],
+            "response_type": "text",
+            "selection_policy": "sequential"
+          },
+          {
+            "source": "http://www.masslocalinstitute.info/workforce_protection/n95-infographic-mask-labeling.png",
+            "response_type": "image"
+          }
+        ]
+      },
+      "parent": "node_10_1585330608613",
+      "conditions": "#n95_masks",
+      "dialog_node": "node_8_1585330769650",
+      "previous_sibling": "node_9_1585330629355"
+    },
+    {
+      "type": "folder",
+      "title": "COVID19_General",
+      "dialog_node": "node_8_1585579119843",
+      "previous_sibling": "Greeting"
+    },
+    {
+      "type": "standard",
+      "title": "COVID-19 Cases: United States",
+      "output": {
+        "generic": [
+          {
+            "values": [
+              {
+                "text": "For an updated case count in the United States, visit this link:\nhttps://www.cdc.gov/coronavirus/2019-ncov/cases-updates/cases-in-us.html"
+              }
+            ],
+            "response_type": "text",
+            "selection_policy": "sequential"
+          }
+        ]
+      },
+      "parent": "node_8_1585579119843",
+      "conditions": "#Covid_Case_Count",
+      "dialog_node": "node_8_1585579590154",
+      "previous_sibling": "node_1_1585579135820"
+    },
+    {
+      "type": "standard",
+      "title": "Soft (Porous) Surfaces",
+      "output": {
+        "generic": [
+          {
+            "values": [
+              {
+                "text": "For soft (porous) surfaces such as carpeted floor, rugs, and drapes, remove visible contamination if present and clean with appropriate cleaners indicated for use on these surfaces. After cleaning, launder items as appropriate in accordance with the manufacturer’s instructions."
+              }
+            ],
+            "response_type": "text",
+            "selection_policy": "sequential"
+          }
+        ]
+      },
+      "parent": "node_1_1585661380576",
+      "conditions": "@surfaces:(Soft Surfaces)",
+      "dialog_node": "node_8_1585661709495",
+      "previous_sibling": "node_7_1585661477555"
+    },
+    {
+      "type": "response_condition",
+      "output": {
+        "text": {
+          "values": [
+            "At @ion_conc_temp the concentration should be 180 ppm."
+          ],
+          "selection_policy": "sequential"
+        }
+      },
+      "parent": "Ion Temps",
+      "conditions": " @ion_conc_temp:(22 degrees)",
+      "dialog_node": "node_9_1497900758679",
+      "previous_sibling": "node_8_1497900721329"
+    },
+    {
+      "type": "standard",
+      "title": "Manufacturing Changes",
+      "output": {
+        "generic": [
+          {
+            "values": [
+              {
+                "text": "Due to the large need for masks, we are shifting some of our production lines to manufacture n95 masks. If this change affected your day to day activities, you would have been notified via your manager on March 25th."
+              }
+            ],
+            "response_type": "text",
+            "selection_policy": "sequential"
+          }
+        ]
+      },
+      "parent": "node_10_1585330608613",
+      "conditions": "#manufacturing_changes",
+      "dialog_node": "node_9_1585330629355"
+    },
+    {
+      "type": "standard",
+      "title": "Start And Initialize Context",
+      "output": {
+        "text": {
+          "values": [
+            "Hello! I am your Cognitive Technical Assistant.  How can I help you?"
+          ],
+          "selection_policy": "sequential"
+        }
+      },
+      "context": {
+        "default_counter": 0
+      },
+      "conditions": "welcome",
+      "dialog_node": "Start And Initialize Context"
+    },
+    {
+      "type": "standard",
+      "title": "Unknown Ion Temp",
+      "output": {
+        "text": {
+          "values": [
+            "I only know the concentration for 22, 27, and 30 degrees."
+          ],
+          "selection_policy": "sequential"
+        }
+      },
+      "parent": "Chloride Ion Concentration",
+      "conditions": "true",
+      "dialog_node": "Unknown Ion Temp",
+      "previous_sibling": "Ion Temps"
+    },
+    {
+      "type": "standard",
+      "title": "Unknown Water Temp Difference",
+      "output": {
+        "text": {
+          "values": [
+            "I only know the Range and Approach temperatures."
+          ],
+          "selection_policy": "sequential"
+        }
+      },
+      "parent": "Water Temperature",
+      "conditions": "true",
+      "dialog_node": "Unknown Water Temp Difference",
+      "previous_sibling": "Water Temperature Variance"
+    },
+    {
+      "type": "standard",
+      "title": "Water Temperature",
+      "output": {
+        "text": {
+          "values": [
+            "Do you need to use the approach or range measure for temperature?"
+          ],
+          "selection_policy": "sequential"
+        }
+      },
+      "parent": "Check Specs",
+      "conditions": "@measurement:temperature",
+      "dialog_node": "Water Temperature"
+    },
+    {
+      "type": "standard",
+      "title": "Water Temperature Variance",
+      "output": {},
+      "parent": "Water Temperature",
+      "conditions": "@temp_variance",
+      "dialog_node": "Water Temperature Variance"
+    }
+  ],
+  "counterexamples": [
+    {
+      "text": "shigella"
+    }
+  ],
+  "system_settings": {
+    "disambiguation": {
+      "prompt": "I don't quite understand what you mean.  Could you please be a little more specific?",
+      "enabled": true,
+      "randomize": true,
+      "max_suggestions": 2,
+      "suggestion_text_policy": "title",
+      "none_of_the_above_prompt": "None of the above"
+    }
+  },
+  "learning_opt_out": false,
+  "name": "Cognitive Technical Assistant",
+  "language": "en",
+  "description": "Provides conversational information about specifications, measurements, and other technical information."
+}
